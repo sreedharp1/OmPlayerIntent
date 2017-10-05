@@ -1,0 +1,2 @@
+ask api simulate-skill -s amzn1.ask.skill.c19d44cc-56ae-4e63-835a-7c148f8b33dd -l en-US -t "launch my meditation"
+ask api get-simulation -i <simulation_id_from_simulate_response> -s amzn1.ask.skill.c19d44cc-56ae-4e63-835a-7c148f8b33dd
